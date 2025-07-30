@@ -1,7 +1,7 @@
 # Practising-Tourism-Project-by-Dashboard-using-Power-BI
 # Page 1: Tourism Overview by Geography and Significance
     This page serves as a holistic overview of tourist destinations across India, segmented by zones, states, cities, and types of attractions.
-# Slicers for Interactive Filtering:
+Slicers for Interactive Filtering:
     Button Slicer (Top left): Users can filter data based on six zones—Northern, Southern, Eastern, Western, Central, and North Eastern.
     Slicer: Three slicers are used to apply filter depending upon State, City and Type of tourist places (e.g., beach, temple, garden)
 Visuals on Page 1:
